@@ -5,4 +5,4 @@ Welcome to Pawlist
 Whitepaper: https://docs.google.com/document/d/1lPIy9XMovYG83nFgpgtVB3zYDsVcbsexustqTSnBOGw/edit
 
 Connect with us on Discord!
-#<a href="https://discord.gg/hvt4VjHcfH"></a>
+https://discord.gg/hvt4VjHcfH
