@@ -5,6 +5,7 @@
 While we're working on the main site, learn more about us below:
 
 ### Our Mission
+- Enable pet sitters and walkers to have reach to potential customers
 - Provide a central location for pet related products, services, rescues and knowledge exchange.
 - Introduce a smart chain enabled token that may be used for pet related products and services.
 - Create a community that allows anyone to easily locate anything pet related including: local shelters, veterinary services, pet sitting/walking services, and local supply stores.
