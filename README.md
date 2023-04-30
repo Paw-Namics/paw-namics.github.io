@@ -1,6 +1,6 @@
-# PawList Pre-launch page
+# Paw-Namics Pre-launch page
 
-## Welcome to Pawlist
+## Welcome to Paw-Namics
 
 While we're working on the main site, learn more about us below:
 
