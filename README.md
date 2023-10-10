@@ -4,7 +4,7 @@
 
 While we're working on the main site, learn more about us below:
 
-# Introducing Pawnamics: The Ultimate Guide for Pet Owners
+# Introducing Pawnamics: The Ultimate Pet Portal
 
 ## The Convenience of a Single Portal for All Your Pet Needs
 
